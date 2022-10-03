@@ -57,15 +57,15 @@ main_win.setLayout(main_h1)
 
 #...
 notes = {
-"О планетах" : 
+"Giraffe" : 
      	{
-        		"текст" : "Что если вода на Марсе это признак жизни?",
-        		"теги" : ["Марс", "гипотезы"]
+        		"текст" : "The giraffe is a large African hoofed mammal belonging to the genus Giraffa. It is the tallest living terrestrial animal and the largest ruminant on Earth.",
+        		"теги" : ["giraffe", "animals", "zoo"]
     		},
-"О чёрных дырах" : 
+"Black Hole" : 
      	{
-        		"текст" : "Сингулярность на горизонте событий отсутствует",
-        		"теги" : ["чёрные дыры", "факты"]
+        		"текст" : "A black hole is a region of spacetime where gravity is so strong that nothing – no particles or even electromagnetic radiation such as light – can escape from it.",
+        		"теги" : ["black hole", "facts"]
     		}
 }
 
